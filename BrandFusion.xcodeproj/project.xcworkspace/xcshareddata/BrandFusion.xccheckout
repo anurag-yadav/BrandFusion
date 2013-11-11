@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A820E325-02EA-4ED7-8E1C-7600757E4071</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BrandFusion</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F34D94D6-5E68-4791-91BC-94C182E07F2A</key>
+		<string>https://github.com/Pimovi/BrandFusion.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BrandFusion/BrandFusion.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F34D94D6-5E68-4791-91BC-94C182E07F2A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Pimovi/BrandFusion.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F34D94D6-5E68-4791-91BC-94C182E07F2A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F34D94D6-5E68-4791-91BC-94C182E07F2A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BrandFusion</string>
+		</dict>
+	</array>
+</dict>
+</plist>
